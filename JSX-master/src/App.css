@@ -1,0 +1,18 @@
+.Title {
+  text-align: center;
+  color: rgb(228, 59, 7);
+  text-decoration: underline;
+  font-family: "Festive", cursive;
+}
+img {
+  width: 20%;
+  border-style: solid;
+}
+h3 {
+  color: rgb(1, 116, 247);
+  text-decoration: ;
+  font-family: "Rubik", sans-serif;
+}
+.background {
+  background-size: cover;
+}
